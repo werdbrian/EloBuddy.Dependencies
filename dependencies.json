@@ -31,6 +31,10 @@
     "System\\SharpDX.dll": {
       "MD5": "c8a932a73720c18f1a2d2b9352d8bf55",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.dll"
+    },
+    "Dependencies\\Newtonsoft.Json.dll": {
+      "MD5": "95e24268172c8908f5b2c906b90a92a7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
     }
   },
   "Patches": {},
