@@ -38,8 +38,17 @@
     }
   },
   "Patches": {
-    "LoL md5 hash here": {
-      "Files": null
+    "LoLHashHere": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "hash",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.17/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "hash",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.17/EloBuddy.dll"
+        }
+      }
     }
   },
   "Loader": {
