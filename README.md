@@ -1,2 +1,2 @@
 # EloBuddy.Dependencies
-EloBuddy - DLL dependencies
+EloBuddy - General dependencies
