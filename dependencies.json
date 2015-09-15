@@ -37,7 +37,18 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
     }
   },
-  "Patches": {},
+  "Patches": {
+    "LoL md5 hash here": {
+      "System\\EloBuddy.Core.dll": {
+        "MD5": "dll md5 hash here",
+        "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/DLL_HASH_HERE/EloBuddy.Core.dll"
+      },
+      "System\\EloBuddy.dll": {
+        "MD5": "dll md5 hash here",
+        "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/DLL_HASH_HERE/EloBuddy.dll"
+      }
+    }
+  },
   "Loader": {
     "MD5": "???",
     "Download": "???"
