@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
-      "MD5": "4645bbaa520bf8fe06c0d54501736720",
+      "MD5": "bc921d4419c8453b7f3f2c5fab0365b9",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
