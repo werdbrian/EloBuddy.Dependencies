@@ -1,9 +1,9 @@
 {
     "news": [
         {
-            "title": "EloBuddy bik",
-            "date": "2015-09-18T11:15:00Z",
-            "content": "EloBuddy big soon™"
+            "Header": "EloBuddy bik",
+            "PostDate": "2015-09-18T11:15:00Z",
+            "Content": "EloBuddy big soon™"
         }
     ]
 }
