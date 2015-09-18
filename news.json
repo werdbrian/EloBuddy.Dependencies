@@ -1,9 +1,14 @@
 {
-    "news": [
-        {
-            "Header": "EloBuddy bik",
-            "PostDate": "2015-09-18T11:15:00Z",
-            "Content": "EloBuddy big soon™"
-        }
-    ]
+  "news": [
+    {
+      "PostDate": "2015-09-18T11:15:00Z",
+      "Header": "EloBuddy bik",
+      "Content": "EloBuddy big soon™"
+    },
+    {
+      "PostDate": "2015-09-18T11:54:17.6803602Z",
+      "Header": "Test news",
+      "Content": "This is just a test news to see if it works!"
+    }
+  ]
 }
