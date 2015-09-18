@@ -40,10 +40,6 @@
       "MD5": "01a1282d2dff217fd245f6940eaef1b2",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
     },
-    "Dependencies\\PresentationFramework.Aero2.dll": {
-      "MD5": "7959172ca21de68f8209c9bb2e20ca90",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.Aero2.dll"
-    },
     "Dependencies\\PresentationFramework.dll": {
       "MD5": "51c66aaf61704529cf7385ce45c5f6e4",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.dll"
