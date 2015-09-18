@@ -17,7 +17,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "9202f021b6401ee1ad3e97192037c6fa",
+      "MD5": "e1688dc98b20aa85a30343b324445efa",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -76,7 +76,7 @@
     }
   },
   "Loader": {
-    "MD5": "319b64704c6f74375cdb9321651d2040",
+    "MD5": "7e98a22abe5cafeb2b3d99bd59a20326",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
