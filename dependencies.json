@@ -36,14 +36,6 @@
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
     },
-    "EloBuddy.Loader.exe.config": {
-      "MD5": "01a1282d2dff217fd245f6940eaef1b2",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/EloBuddy.Loader.exe.config"
-    },
-    "Loader\\EloBuddy.Loader.Complete.zip": {
-      "MD5": "7d948f08da29903ea81800b020a6f909",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.Complete.zip"
-    },
     "Loader\\EloBuddy.Loader.exe.config": {
       "MD5": "01a1282d2dff217fd245f6940eaef1b2",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
